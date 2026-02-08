@@ -2,7 +2,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Mono&size=24&pause=1000&color=34383C&width=435&lines=Full-Stack+Software+Developer;.NET+%7C+NestJS+%7C+Laravel+%7C+Python;Angular+%7C+React++%7C+Astro+%7C+Vue;Tailwind+%7C+SASS+%7C+CSS;SQL+Server+%7C+MySQL+%7C+PosgreSQL+%7C+SQLite;Redis+%7C+MongoDB;Docker+%7C+Kubernetes+%7C+CI%2FCD+%7C+GIT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Mono&size=22&pause=1000&color=34383C&width=435&lines=Full-Stack+Software+Developer;.NET+%7C+NestJS+%7C+Laravel+%7C+Python;Angular+%7C+React++%7C+Astro+%7C+Vue;Tailwind+%7C+SASS+%7C+CSS;SQL+%7C+NoSQL;Docker+%7C+K8S+%7C+CI%2FCD+%7C+GIT)](https://git.io/typing-svg)
 
 <!--
 **akeus/akeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
